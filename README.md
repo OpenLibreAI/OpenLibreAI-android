@@ -1,5 +1,11 @@
 # OpenLibreAI
 
+
+## Phase One
+In phase one of the OpenLibreAI project, the plan is to implemeent the OpenLibreAI Android app and the OpenLibreStudio app
+
+OpenLibre Android app is an AI Assistant and AI Agent which interacts over API interface with various LLMs
+
 ## Overview
 
 The world needs fine-tuned models for domain specific use-cases to solve domain-specific problems such as image analysis, video analysis, and vector database data analysis.

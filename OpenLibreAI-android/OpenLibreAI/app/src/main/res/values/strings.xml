@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OpenLibre</string>
+    <string name="title">OpenLibre</string>
+    <string name="location">Apps, Stacks, Backends</string>
+    <string name="description">OpenLibre is an open source AI app platform</string>
+    <string name="order_button_text">Order Take Away</string>
+    <string name="weekly_special">Weekly Special</string>
+    <string name="add_for">Add for</string>
+</resources>
