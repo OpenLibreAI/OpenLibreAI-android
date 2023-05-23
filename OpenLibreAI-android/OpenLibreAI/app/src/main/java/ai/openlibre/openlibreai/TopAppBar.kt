@@ -34,7 +34,7 @@ fun TopAppBar(scaffoldState: ScaffoldState? = null, scope: CoroutineScope? = nul
         }
         Image(
             painter = painterResource(id = R.drawable.unicornappimgtxt_nobg),
-            contentDescription = "Little Lemon Logo",
+            contentDescription = "Open Libre Logo",
             modifier = Modifier.fillMaxWidth(0.5F)
                 .padding(horizontal = 20.dp)
         )

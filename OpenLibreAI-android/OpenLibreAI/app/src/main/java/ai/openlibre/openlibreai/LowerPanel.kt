@@ -1,5 +1,6 @@
 package ai.openlibre.openlibreai
 
+import ai.openlibre.openlibreai.ui.theme.OpenLibreColor
 import android.util.Log
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Column
@@ -19,7 +20,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
-import app.unicornapp.openlibreai.ui.theme.OpenLibreColor
 
 @Composable
 fun LowerPanel(navController: NavHostController, dishes: List<Dish> = listOf()) {

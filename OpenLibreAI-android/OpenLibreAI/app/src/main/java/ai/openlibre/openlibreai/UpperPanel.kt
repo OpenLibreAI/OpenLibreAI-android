@@ -1,5 +1,6 @@
 package ai.openlibre.openlibreai
 
+import ai.openlibre.openlibreai.ui.theme.OpenLibreColor
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -16,7 +17,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import app.unicornapp.openlibreai.ui.theme.OpenLibreColor
+
 
 @Composable
 fun UpperPanel() {
