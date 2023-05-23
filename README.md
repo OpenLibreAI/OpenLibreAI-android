@@ -1,10 +1,10 @@
-# OpenLibreAI
+# OpenLibreAI Android
 
 
 ## Phase One
-In phase one of the OpenLibreAI project, the plan is to implemeent the OpenLibreAI Android app and the OpenLibreStudio app
+In phase one of the OpenLibreAI project, the plan is to implemeent the OpenLibreAI Android app, OpenLibreAI iOS app and the OpenLibreStudio web app
 
-OpenLibre Android app is an AI Assistant and AI Agent which interacts over API interface with various LLMs
+OpenLibreAI app is an AI Assistant and AI Agent which interacts over API interface with various LLMs
 
 ## Overview
 
